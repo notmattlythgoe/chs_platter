@@ -27,7 +27,7 @@ Name | Type | Description | Notes
 **locationName** | **String** | Name of the location at the address for the event, eg. Blue Alliance High School. |  [optional]
 **timezone** | **String** | Timezone name. |  [optional]
 **website** | **String** | The event&#39;s website, if any. |  [optional]
-**firstEventId** | **Integer** | The FIRST internal Event ID, used to link to the event on the FRC webpage. |  [optional]
+**firstEventId** | **String** | The FIRST internal Event ID, used to link to the event on the FRC webpage. |  [optional]
 **firstEventCode** | **String** | Public facing event code used by FIRST (on frc-events.firstinspires.org, for example) |  [optional]
 **webcasts** | [**List&lt;Webcast&gt;**](Webcast.md) |  |  [optional]
 **divisionKeys** | **List&lt;String&gt;** | An array of event keys for the divisions at this event. |  [optional]

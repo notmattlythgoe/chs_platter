@@ -103,7 +103,7 @@ public class Event {
   private String website = null;
 
   @SerializedName("first_event_id")
-  private Integer firstEventId = null;
+  private String firstEventId = null;
 
   @SerializedName("first_event_code")
   private String firstEventCode = null;
@@ -537,7 +537,7 @@ public class Event {
     this.website = website;
   }
 
-  public Event firstEventId(Integer firstEventId) {
+  public Event firstEventId(String firstEventId) {
     this.firstEventId = firstEventId;
     return this;
   }
@@ -547,11 +547,11 @@ public class Event {
    * @return firstEventId
   **/
   @ApiModelProperty(value = "The FIRST internal Event ID, used to link to the event on the FRC webpage.")
-  public Integer getFirstEventId() {
+  public String getFirstEventId() {
     return firstEventId;
   }
 
-  public void setFirstEventId(Integer firstEventId) {
+  public void setFirstEventId(String firstEventId) {
     this.firstEventId = firstEventId;
   }
 
