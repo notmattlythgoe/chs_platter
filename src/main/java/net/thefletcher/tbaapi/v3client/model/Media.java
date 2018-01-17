@@ -57,11 +57,9 @@ public class Media {
     
     GRABCAD("grabcad"),
     
-    PINTEREST_PROFILE("pinterest-profile"),
+    INSTAGRAM_IMAGE("instagram-image"),
     
-    SNAPCHAT_PROFILE("snapchat-profile"),
-    
-    TWITCH_CHANNEL("twitch-channel");
+    EXTERNAL_LINK("external-link");
 
     private String value;
 

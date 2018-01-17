@@ -25,9 +25,8 @@ GITHUB_PROFILE | &quot;github-profile&quot;
 INSTAGRAM_PROFILE | &quot;instagram-profile&quot;
 PERISCOPE_PROFILE | &quot;periscope-profile&quot;
 GRABCAD | &quot;grabcad&quot;
-PINTEREST_PROFILE | &quot;pinterest-profile&quot;
-SNAPCHAT_PROFILE | &quot;snapchat-profile&quot;
-TWITCH_CHANNEL | &quot;twitch-channel&quot;
+INSTAGRAM_IMAGE | &quot;instagram-image&quot;
+EXTERNAL_LINK | &quot;external-link&quot;
 
 
 
