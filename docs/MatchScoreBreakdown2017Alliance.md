@@ -6,9 +6,7 @@ Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **autoPoints** | **Integer** |  |  [optional]
 **teleopPoints** | **Integer** |  |  [optional]
-**breechPoints** | **Integer** |  |  [optional]
 **foulPoints** | **Integer** |  |  [optional]
-**capturePoints** | **Integer** |  |  [optional]
 **adjustPoints** | **Integer** |  |  [optional]
 **totalPoints** | **Integer** |  |  [optional]
 **robot1Auto** | [**Robot1AutoEnum**](#Robot1AutoEnum) |  |  [optional]

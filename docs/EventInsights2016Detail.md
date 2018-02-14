@@ -15,7 +15,7 @@ Name | Type | Description | Notes
 **dRockWall** | **List&lt;Float&gt;** | For the Rock Wall - An array with three values, number of times damaged, number of opportunities to damage, and percentage. | 
 **averageHighGoals** | **Float** | Average number of high goals scored. | 
 **averageLowGoals** | **Float** | Average number of low goals scored. | 
-**breaches** | **List&lt;Float&gt;** | An array with three values, number of times breached, number of opportunities to breech, and percentage. | 
+**breaches** | **List&lt;Float&gt;** | An array with three values, number of times breached, number of opportunities to breach, and percentage. | 
 **scales** | **List&lt;Float&gt;** | An array with three values, number of times scaled, number of opportunities to scale, and percentage. | 
 **challenges** | **List&lt;Float&gt;** | An array with three values, number of times challenged, number of opportunities to challenge, and percentage. | 
 **captures** | **List&lt;Float&gt;** | An array with three values, number of times captured, number of opportunities to capture, and percentage. | 

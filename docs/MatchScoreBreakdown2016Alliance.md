@@ -6,7 +6,7 @@ Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **autoPoints** | **Integer** |  |  [optional]
 **teleopPoints** | **Integer** |  |  [optional]
-**breechPoints** | **Integer** |  |  [optional]
+**breachPoints** | **Integer** |  |  [optional]
 **foulPoints** | **Integer** |  |  [optional]
 **capturePoints** | **Integer** |  |  [optional]
 **adjustPoints** | **Integer** |  |  [optional]

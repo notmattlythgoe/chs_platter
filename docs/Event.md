@@ -17,7 +17,7 @@ Name | Type | Description | Notes
 **year** | **Integer** | Year the event data is for. | 
 **shortName** | **String** | Same as &#x60;name&#x60; but doesn&#39;t include event specifiers, such as &#39;Regional&#39; or &#39;District&#39;. May be null. |  [optional]
 **eventTypeString** | **String** | Event Type, eg Regional, District, or Offseason. | 
-**week** | **Integer** | Week of the competition season this event is in. |  [optional]
+**week** | **Integer** | Week of the event relative to the first official season event. Only valid for Regionals, Districts, and District Championships. Null otherwise. |  [optional]
 **address** | **String** | Address of the event&#39;s venue, if available. |  [optional]
 **postalCode** | **String** | Postal code from the event address. |  [optional]
 **gmapsPlaceId** | **String** | Google Maps Place ID for the event address. |  [optional]
